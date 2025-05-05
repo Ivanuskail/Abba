@@ -1,0 +1,58 @@
+name: "CodeQL for C# on Windows"
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+  schedule:
+    - cron: '30 18 * * 1'
+
+jobs:
+  analyze:
+    name: Analyze C#
+    runs-on: windows-latest
+    permissions:
+      security-events: write
+      packages: read
+      actions: read
+      contents: read
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Setup .NET
+      uses: actions/setup-dotnet@v3
+      with:
+        dotnet-version: '6.0.x'  # Укажите вашу версию .NET
+
+    - name: Find solution file
+      id: find-sln
+      run: |
+        # Ищем первый .sln файл в репозитории
+        SLN_PATH=$(Get-ChildItem -Recurse -Filter *.sln | Select-Object -First 1 -ExpandProperty FullName)
+        if (-not $SLN_PATH) {
+          Write-Output "::error::No .sln file found in the repository"
+          exit 1
+        }
+        echo "SLN_PATH=$SLN_PATH" >> $env:GITHUB_ENV
+        echo "PROJECT_DIR=$(Split-Path -Path $SLN_PATH -Parent)" >> $env:GITHUB_ENV
+
+    - name: Restore dependencies
+      run: dotnet restore "${{ env.SLN_PATH }}"
+      working-directory: "${{ env.PROJECT_DIR }}"
+
+    - name: Initialize CodeQL
+      uses: github/codeql-action/init@v3
+      with:
+        languages: 'csharp'
+        build-mode: 'autobuild'  # Пусть CodeQL сам попробует построить проект
+
+    # Альтернатива - ручное построение (раскомментируйте если autobuild не работает)
+    # - name: Build project
+    #   run: dotnet build --configuration Release "${{ env.SLN_PATH }}"
+    #   working-directory: "${{ env.PROJECT_DIR }}"
+
+    - name: Perform CodeQL Analysis
+      uses: github/codeql-action/analyze@v3
