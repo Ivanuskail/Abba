@@ -1,0 +1,50 @@
+C:/Users/ivana/source/repos/WindowsFormsApp5/WindowsFormsApp5/bin/Debug/WindowsFormsApp5.exe.config
+C:/Users/ivana/source/repos/WindowsFormsApp5/WindowsFormsApp5/bin/Debug/WindowsFormsApp5.exe
+C:/Users/ivana/source/repos/WindowsFormsApp5/WindowsFormsApp5/bin/Debug/WindowsFormsApp5.pdb
+C:/Users/ivana/source/repos/WindowsFormsApp5/WindowsFormsApp5/obj/Debug/WindowsFormsApp5.csproj.AssemblyReference.cache
+C:/Users/ivana/source/repos/WindowsFormsApp5/WindowsFormsApp5/obj/Debug/WindowsFormsApp5.csproj.SuggestedBindingRedirects.cache
+C:/Users/ivana/source/repos/WindowsFormsApp5/WindowsFormsApp5/obj/Debug/WindowsFormsApp5.Form1.resources
+C:/Users/ivana/source/repos/WindowsFormsApp5/WindowsFormsApp5/obj/Debug/WindowsFormsApp5.Properties.Resources.resources
+C:/Users/ivana/source/repos/WindowsFormsApp5/WindowsFormsApp5/obj/Debug/WindowsFormsApp5.csproj.GenerateResource.cache
+C:/Users/ivana/source/repos/WindowsFormsApp5/WindowsFormsApp5/obj/Debug/WindowsFormsApp5.csproj.CoreCompileInputs.cache
+C:/Users/ivana/source/repos/WindowsFormsApp5/WindowsFormsApp5/obj/Debug/WindowsFormsApp5.exe
+C:/Users/ivana/source/repos/WindowsFormsApp5/WindowsFormsApp5/obj/Debug/WindowsFormsApp5.pdb
+C:/Users/ivana/source/repos/WindowsFormsApp5/WindowsFormsApp5/obj/Debug/WindowsFormsApp5.Form2.resources
+C:/Users/ivana/source/repos/WindowsFormsApp5/WindowsFormsApp5/obj/Debug/WindowsFormsApp5.Form3.resources
+C:/Users/ivana/source/repos/WindowsFormsApp5/WindowsFormsApp5/bin/Debug/ja/WindowsFormsApp5.resources.dll
+C:/Users/ivana/source/repos/WindowsFormsApp5/WindowsFormsApp5/obj/Debug/WindowsFormsApp5.Form1.ja.resources
+C:/Users/ivana/source/repos/WindowsFormsApp5/WindowsFormsApp5/obj/Debug/ja/WindowsFormsApp5.resources.dll
+C:/Users/Ivanus/Desktop/C#/WindowsFormsApp5/WindowsFormsApp5/bin/Debug/WindowsFormsApp5.exe.config
+C:/Users/Ivanus/Desktop/C#/WindowsFormsApp5/WindowsFormsApp5/bin/Debug/WindowsFormsApp5.exe
+C:/Users/Ivanus/Desktop/C#/WindowsFormsApp5/WindowsFormsApp5/bin/Debug/WindowsFormsApp5.pdb
+C:/Users/Ivanus/Desktop/C#/WindowsFormsApp5/WindowsFormsApp5/bin/Debug/ja/WindowsFormsApp5.resources.dll
+C:/Users/Ivanus/Desktop/C#/WindowsFormsApp5/WindowsFormsApp5/obj/Debug/WindowsFormsApp5.csproj.AssemblyReference.cache
+C:/Users/Ivanus/Desktop/C#/WindowsFormsApp5/WindowsFormsApp5/obj/Debug/WindowsFormsApp5.csproj.SuggestedBindingRedirects.cache
+C:/Users/Ivanus/Desktop/C#/WindowsFormsApp5/WindowsFormsApp5/obj/Debug/WindowsFormsApp5.Form1.resources
+C:/Users/Ivanus/Desktop/C#/WindowsFormsApp5/WindowsFormsApp5/obj/Debug/WindowsFormsApp5.Form2.resources
+C:/Users/Ivanus/Desktop/C#/WindowsFormsApp5/WindowsFormsApp5/obj/Debug/WindowsFormsApp5.Form3.resources
+C:/Users/Ivanus/Desktop/C#/WindowsFormsApp5/WindowsFormsApp5/obj/Debug/WindowsFormsApp5.Properties.Resources.resources
+C:/Users/Ivanus/Desktop/C#/WindowsFormsApp5/WindowsFormsApp5/obj/Debug/WindowsFormsApp5.Form1.ja.resources
+C:/Users/Ivanus/Desktop/C#/WindowsFormsApp5/WindowsFormsApp5/obj/Debug/WindowsFormsApp5.csproj.GenerateResource.cache
+C:/Users/Ivanus/Desktop/C#/WindowsFormsApp5/WindowsFormsApp5/obj/Debug/WindowsFormsApp5.csproj.CoreCompileInputs.cache
+C:/Users/Ivanus/Desktop/C#/WindowsFormsApp5/WindowsFormsApp5/obj/Debug/ja/WindowsFormsApp5.resources.dll
+C:/Users/Ivanus/Desktop/C#/WindowsFormsApp5/WindowsFormsApp5/obj/Debug/WindowsFormsApp5.exe
+C:/Users/Ivanus/Desktop/C#/WindowsFormsApp5/WindowsFormsApp5/obj/Debug/WindowsFormsApp5.pdb
+C:/Users/Ivanus/Desktop/C#/Форма для логина/WindowsFormsApp5/bin/Debug/WindowsFormsApp5.exe.config
+C:/Users/Ivanus/Desktop/C#/Форма для логина/WindowsFormsApp5/bin/Debug/WindowsFormsApp5.exe
+C:/Users/Ivanus/Desktop/C#/Форма для логина/WindowsFormsApp5/bin/Debug/WindowsFormsApp5.pdb
+C:/Users/Ivanus/Desktop/C#/Форма для логина/WindowsFormsApp5/bin/Debug/ja/WindowsFormsApp5.resources.dll
+C:/Users/Ivanus/Desktop/C#/Форма для логина/WindowsFormsApp5/obj/Debug/WindowsFormsApp5.csproj.AssemblyReference.cache
+C:/Users/Ivanus/Desktop/C#/Форма для логина/WindowsFormsApp5/obj/Debug/WindowsFormsApp5.csproj.SuggestedBindingRedirects.cache
+C:/Users/Ivanus/Desktop/C#/Форма для логина/WindowsFormsApp5/obj/Debug/WindowsFormsApp5.Form1.resources
+C:/Users/Ivanus/Desktop/C#/Форма для логина/WindowsFormsApp5/obj/Debug/WindowsFormsApp5.Properties.Resources.resources
+C:/Users/Ivanus/Desktop/C#/Форма для логина/WindowsFormsApp5/obj/Debug/WindowsFormsApp5.Form1.ja.resources
+C:/Users/Ivanus/Desktop/C#/Форма для логина/WindowsFormsApp5/obj/Debug/WindowsFormsApp5.csproj.GenerateResource.cache
+C:/Users/Ivanus/Desktop/C#/Форма для логина/WindowsFormsApp5/obj/Debug/WindowsFormsApp5.csproj.CoreCompileInputs.cache
+C:/Users/Ivanus/Desktop/C#/Форма для логина/WindowsFormsApp5/obj/Debug/ja/WindowsFormsApp5.resources.dll
+C:/Users/Ivanus/Desktop/C#/Форма для логина/WindowsFormsApp5/obj/Debug/WindowsFormsApp5.exe
+C:/Users/Ivanus/Desktop/C#/Форма для логина/WindowsFormsApp5/obj/Debug/WindowsFormsApp5.pdb
+C:/Users/Ivanus/Desktop/C#/Форма для логина/WindowsFormsApp5/obj/Debug/WindowsFormsApp5.Admin_form.resources
+C:/Users/Ivanus/Desktop/C#/Форма для логина/WindowsFormsApp5/obj/Debug/WindowsFormsApp5.User_form.resources
+/home/ivan/Форма для логина/WindowsFormsApp5/obj/Debug/WindowsFormsApp5.exe
+/home/ivan/Форма для логина/WindowsFormsApp5/obj/Debug/WindowsFormsApp5.pdb
